@@ -1,0 +1,1 @@
+ctrl + shift + P  -->>> para empezar a ejecutarlo y detenerlo

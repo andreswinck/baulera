@@ -1,0 +1,5 @@
+primero seleccionar
+apretar
+Ctrl+K
+y luego apretar
+Ctrl+C
